@@ -1,0 +1,188 @@
+[
+    {
+        "id": 1,
+        "title": "Elegant Home Interior Design",
+        "time": "",
+        "post": "🏡 Beautiful Interior by J B Architects and Engineer",
+        "pointDetails": {
+            "pointsTitle": " ",
+            "customMarker": "✨",
+            "points": [
+                "Double-height ceilings",
+                "Modern lighting and glass railings",
+                "Nature-inspired elements"
+            ]
+        },
+        "description": "DM us for your dream home design!",
+        "image": "https://raw.githubusercontent.com/Azitech-global/jb-architects-engineers-images/refs/heads/main/images/blog/blog5.jpg",
+        "thumbnail": "image",
+        "videoLink": false,
+        "isUrl": false
+    },
+    {
+        "id": 2,
+        "title": "Modern Elegance: A Stunning Home Design",
+        "time": "",
+        "post": "Hi there! 👋 Here’s one of our beautiful home designs by JB Architects & Engineers.",
+        "pointDetails": {
+            "pointsTitle": "🏡 Design Highlights:",
+            "customMarker": "✨",
+            "points": [
+                "Sleek and modern architecture",
+                "Neutral and timeless color palette",
+                "Bright, open spaces"
+            ]
+        },
+        "description": "Thinking of designing your dream home? We’d love to help!",
+        "image": "https://raw.githubusercontent.com/Azitech-global/jb-architects-engineers-images/refs/heads/main/images/blog/blog4.jpg",
+        "thumbnail": "image",
+        "htmlContent": false
+    },
+    {
+        "id": 3,
+        "title": "Transforming Visions into Reality 🏡✨",
+        "time": "",
+        "post": "Here’s a glimpse of one of our ongoing projects at J B Architects & Engineers. From initial concept to final structure, every step reflects our commitment to innovative and sustainable design.",
+        "pointDetails": {
+            "pointsTitle": "📌 Services We Offer:",
+            "customMarker": " ",
+            "points": [
+                "Architectural Planning & Drawings",
+                "Interior & Exterior Design",
+                "Construction Consultancy"
+            ]
+        },
+        "description": "Stay tuned for more updates, and let us help you build your dream home! 💡",
+        "image": "https://raw.githubusercontent.com/Azitech-global/jb-architects-engineers-images/refs/heads/main/images/blog/blog3.jpg",
+        "thumbnail": "image",
+        "htmlContent": false
+    },
+    {
+        "id": 4,
+        "title": "J B Architects & Engineers",
+        "time": "",
+        "post": "Integrated Architectural Solutions: Concept-to-Completion Planning, Design, Drawings, Interiors, Exteriors, and Construction Consulting.",
+        "pointDetails": {
+            "pointsTitle": "",
+            "customMarker": "✨",
+            "points": []
+        },
+        "description": "Thinking of designing your dream home? We’d love to help!",
+        "image": "https://raw.githubusercontent.com/Azitech-global/jb-architects-engineers-images/refs/heads/main/images/blog/blog2.jpg",
+        "thumbnail": "image",
+        "htmlContent": false
+    },
+    {
+        "id": 5,
+        "title": "Furniture showroom exterior design",
+        "time": "",
+        "post": "To learn more about your dream home construction follow us. If u have any queries feel free to contact us.",
+        "pointDetails": {
+            "pointsTitle": "",
+            "customMarker": "✨",
+            "points": []
+        },
+        "description": "Thinking of designing your dream home? We’d love to help!",
+        "image": "https://raw.githubusercontent.com/Azitech-global/jb-architects-engineers-images/refs/heads/main/images/blog/blog1.jpg",
+        "thumbnail": "image",
+        "htmlContent": false
+    },
+    {
+        "id": 6,
+        "title": "Clinic Interior design done",
+        "time": "",
+        "post": "To learn more about your dream home construction follow us. If u have any queries feel free to contact us.",
+        "pointDetails": {
+            "pointsTitle": "",
+            "customMarker": "✨",
+            "points": []
+        },
+        "description": "Thinking of designing your dream home? We’d love to help!",
+        "image": "https://raw.githubusercontent.com/Azitech-global/jb-architects-engineers-images/refs/heads/main/images/blog/blog6.jpg",
+        "thumbnail": "image",
+        "htmlContent": false
+    },
+    {
+        "id": 7,
+        "title": "Staircase Construction in 7 feet by 8 feet Room in old building renovation",
+        "time": "",
+        "post": "In small space we achieved proper Staircase with 7 inch Riser and 10 inch tread Our customer is satisfied with staircase",
+        "pointDetails": {
+            "pointsTitle": " ",
+            "customMarker": "✨",
+            "points": []
+        },
+        "description": "To learn more about your dream home construction follow us. If u have any queries feel free to contact us.",
+        "image": "https://raw.githubusercontent.com/Azitech-global/jb-architects-engineers-images/refs/heads/main/images/blog/blog5.jpg",
+        "thumbnail": "video",
+        "isVideoLink": true,
+        "urls": {
+            "faceBook": "",
+            "YouTube": "https://youtube.com/shorts/JgX56HuwI44?si=035v98Elf7wLPgzi"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Residence project from design to execution completed",
+        "time": "",
+        "post": "",
+        "pointDetails": {
+            "pointsTitle": " ",
+            "customMarker": "✨",
+            "points": []
+        },
+        "description": "To learn more about your dream home construction follow us. If u have any queries feel free to contact us.",
+        "image": "https://raw.githubusercontent.com/Azitech-global/jb-architects-engineers-images/refs/heads/main/images/blog/blog5.jpg",
+        "thumbnail": "video",
+        "isVideoLink": true,
+        "urls": {
+            "faceBook": "",
+            "YouTube": "https://youtube.com/shorts/9XCEAmRPTsI?si=NJZbXUzM2KZ3AKeK"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Residence project from 3D design to execution completed",
+        "time": "",
+        "post": "",
+        "pointDetails": {
+            "pointsTitle": " ",
+            "customMarker": "✨",
+            "points": []
+        },
+        "description": "To learn more about your dream home construction follow us. If u have any queries feel free to contact us.",
+        "image": "https://raw.githubusercontent.com/Azitech-global/jb-architects-engineers-images/refs/heads/main/images/blog/blog5.jpg",
+        "thumbnail": "video",
+        "isVideoLink": true,
+        "urls": {
+            "faceBook": "",
+            "YouTube": "https://youtube.com/shorts/REkEpKYrFBo?si=gtQ5YxlSNTY7d4qg"
+        }
+    },
+    {
+        "id": 10,
+        "title": "Modern Living Room – Where Style Meets Comfort! ✨",
+        "time": "",
+        "post": "Upgrade your home with a sleek, stylish, and inviting living space! Designed for both elegance and relaxation, this interior features:",
+        "pointDetails": {
+            "pointsTitle": " ",
+            "customMarker": "✔",
+            "points": [
+                "Elegant ceiling design with decorative panels & warm lighting",
+                "Chic pendant lights for a cozy ambiance",
+                "Wall-mounted aquarium for a unique and calming touch",
+                "Floating TV unit with open shelves for a clean, modern look",
+                "Neutral-toned furniture for a balanced and sophisticated feel",
+                "Glossy marble flooring & sheer curtains to enhance luxury"
+            ]
+        },
+        "description": "To learn more about your dream home construction follow us. If u have any queries feel free to contact us.",
+        "image": "https://raw.githubusercontent.com/Azitech-global/jb-architects-engineers-images/refs/heads/main/images/blog/blog7.jpg",
+        "thumbnail": "image",
+        "isVideoLink": true,
+        "urls": {
+            "faceBook": "",
+            "YouTube": ""
+        }
+    }
+]
