@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "clientName": "FAIZAL KANI",
+        "image": "https://via.placeholder.com/150",
+        "review": "I recently had the pleasure of working with Hasim to design the ground floor plans for my new building, and I am beyond impressed with the results. From the first consultation to the final drafts, he was highly professional, attentive, and incredibly detail-oriented.\n\nHe took the time to understand my needs and preferences, offering valuable insights and creative suggestions that truly enhanced the overall design. The layout they provided was not only functional and efficient but also aesthetically pleasing, maximizing the use of space while maintaining a great flow between rooms. The entire process was smooth, and they were always available to address any questions or concerns I had along the way. Their expertise really shines through in their work, and I couldn’t be happier with how the plans turned out.\n\nIf you’re looking for a company that delivers excellent ground floor plans with a focus on quality and customer satisfaction, I highly recommend JB Architects. I look forward to working with them on future projects!",
+        "stars": 5
+    },
+    {
+        "id": 2,
+        "clientName": "Murugesan R",
+        "image": "https://via.placeholder.com/150",
+        "review": "Very good design work and quality construction.. Would love to refer the builder to friends and family. It would be really nice if you could complete the construction little faster. Very nice technical team you have.",
+        "stars": 4
+    },
+    {
+        "id": 3,
+        "clientName": "Jabir Rizwan",
+        "image": "https://via.placeholder.com/150",
+        "review": "Thank you so much Thoufiq and Hashim for building our dream home. Experience was wonderful and it will be cherished forever Insha allah. Feel free to reach us if you need to show the house as reference. Thanks again for all your support.",
+        "stars": 5
+    },
+    {
+        "id": 4,
+        "clientName": "Shahul Hameed",
+        "image": "https://via.placeholder.com/150",
+        "review": "JB architect did My home renovation. First of all thanks.. for.. made my home better then before. Source of good construction is best plan and ideas.... They came to me with a best plan for my home renovation. They provide a plan according to my requirement. Thanks again... Best of luck... Looking for future projects with you...",
+        "stars": 5
+    },
+    {
+        "id": 5,
+        "clientName": "vadivel prabu",
+        "image": "https://via.placeholder.com/150",
+        "review": "Dedicated designer and communicate with you well..",
+        "stars": 5
+    },
+    {
+        "id": 6,
+        "clientName": "khaja mohideen",
+        "image": "https://via.placeholder.com/150",
+        "review": "VERY GOOD ENGINEERS. ALWAYS BETTER SERVICE. ALHAMDHULILLAH, JAZAKALLAH KHAIR",
+        "stars": 5
+    }
+]
